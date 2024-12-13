@@ -89,8 +89,6 @@ pub fn part1() -> i32 {
                 total_safe_reports += 1;
             }
         }
-
-        println!("Total safe reports: {}", total_safe_reports);
     }
 
     total_safe_reports
@@ -130,8 +128,6 @@ pub fn part2() -> i32 {
                 total_safe_reports += 1;
             }
         }
-
-        println!("Total safe reports: {}", total_safe_reports);
     }
 
     total_safe_reports
